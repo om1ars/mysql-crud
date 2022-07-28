@@ -1,0 +1,11 @@
+#spring:
+#  datasource:
+#      username: omar
+#      password: WKD5nc]0@0Mhacf-
+#      url: jdbc:mysql://localhost:3306/crudjava
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+#    jpa:
+#      show-sql: true
+#      hibernate:
+#        ddl-auto: update
+#      properties.hibernate.dialect: org.hibernate.dialect.MysSQL5Dialect
